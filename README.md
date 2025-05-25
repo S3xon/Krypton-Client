@@ -1,4 +1,4 @@
-How to run Krypton Client!
+# How to run Krypton Client!
 --------------------------
 1)Download the zip
 2)Unzip the zip
